@@ -1,0 +1,6 @@
+---
+channel: stable
+  tasmoadmin:
+    repository: hassio-addons/addon-tasmoadmin
+    target: tasmoadmin
+    image: hassioaddons/sonweb-{arch}
